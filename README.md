@@ -1,7 +1,5 @@
 # User Experience/UX
- -Where tourist can search places where they want to go.
- -Provide travel information.
- -Provide Weather Forecast
+ -Where tourist can search places where they want to go. Provide travel information and weather forecast
 
 # User Interface/UI
   # Tailwind CSS
